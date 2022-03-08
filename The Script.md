@@ -13,7 +13,7 @@ $title[✅ • Sukses]
 $description[<@$authorID> _Accept, Anda telah berhasil daftar di server **$serverName[$guildID]** Semoga betah!_]
  
 $onlyBotPerms[managenicknames;❌ Botmu Harus diberi role admin kalau ingin pakai cmd ini!!]
-$onlyForChannels[950691630330036224;Kamu hanya bisa menggunakan itu di channel <#id channel untuk daftar>]
+$onlyForChannels[id channel untuk daftar;Kamu hanya bisa menggunakan itu di channel <#id channel untuk daftar>]
 $argsCheck[>1;**!register (nama kamu)**]
  
 $addTimestamp
@@ -29,7 +29,7 @@ $title[✅ • Success]
 $description[<@$authorID> _Accept, you has Veen registered on **$serverName[$guildID]** Good luck!_]
  
 $onlyBotPerms[managenicknames;❌ Your bot must have admin role for doing this cmd!!]
-$onlyForChannels[950691630330036224;you can only do this on <#Channel id to register>]
+$onlyForChannels[channel id to register;you can only do this on <#Channel id to register>]
 $argsCheck[>1;**!register (your name)**]
  
 $addTimestamp
